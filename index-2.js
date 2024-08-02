@@ -1,4 +1,4 @@
-// "Overthrone" by Dean "'ongestsoloever" MiZarzo
+// "Overthrone" by Dean "longestsoloever" MiZarzo
 function song() {
     let r;
     // Verse 1
